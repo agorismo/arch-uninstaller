@@ -14,7 +14,7 @@ sudo pacman -S python-gobject gtk4 polkit polkit-gnome
 
 *Note: A graphical Polkit agent (such as `polkit-gnome` or `polkit-kde-agent`) must be running in your desktop session for privilege elevation.*
 
-## isage
+## usage
 
 run directly:
 
