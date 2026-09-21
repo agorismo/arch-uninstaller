@@ -19,7 +19,7 @@ sudo pacman -S python-gobject gtk4 polkit polkit-gnome
 run directly:
 
 ```bash
-python3 archun.py
+python3 archpanel_uninstaller.py
 ```
 
 ### installation
@@ -27,7 +27,6 @@ python3 archun.py
 to install system-wide:
 
 ```bash
-sudo install -Dm755 archun.py /usr/local/bin/archun.py
 sudo install -Dm644 arch-uninstaller.desktop /usr/share/applications/arch-uninstaller.desktop
 ```
 
